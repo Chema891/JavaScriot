@@ -1,0 +1,26 @@
+body{
+    background: black;
+    color: white;
+    margin-top: -10px black;
+    text-align: center;
+}
+
+.grandes {
+    width: 40px;
+    height: 240px;
+    margin-top: -10px;
+    background-color: white;
+    border: 1px black solid;
+    display: inline-block;
+}
+.pequeñas{
+    width: 40px;
+    height: 160px;
+    position: absolute;
+    display: inline-block;
+    margin-left: -25px;
+    background-color: black;
+    margin-top: -7px;
+}
+
+

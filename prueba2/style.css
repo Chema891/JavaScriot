@@ -1,0 +1,22 @@
+body {
+    background-color: bisque;
+    padding: 1px;
+    display: block;
+    margin: 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{text-align: center}
+
+ul > li{
+    list-style: none;
+    vertical-align: top;
+    border-bottom: 2px solid rebeccapurple;
+    padding: 10px }
+
+ul > li img{width: 50px;}
+
+ul > li > *{display: inline-block}
+
+.saluda {background-color: green; padding: 10px; color: ghostwhite; float: right;}
+.borra {background-color: red; padding: 10px; color: ghostwhite; float: right;}
